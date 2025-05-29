@@ -99,11 +99,11 @@ function Contact() {
               <ul className="space-y-4">
                 <li className="flex items-center space-x-2">
                   <FaPhone className="text-red-500" />
-                  <span>+91 9876543210</span>
+                  <span>+91 9109033270</span>
                 </li>
                 <li className="flex items-center space-x-2">
                   <FaEnvelope className="text-pink-500" />
-                  <span>help@learncoding.com</span>
+                  <span>abhay@learncoding.com</span>
                 </li>
                 <li className="flex items-center space-x-2">
                   <FaMapMarkerAlt className="text-green-500" />
