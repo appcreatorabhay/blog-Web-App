@@ -16,10 +16,11 @@ function Blogs() {
         </p>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-6 gap-4">
           {blogs && blogs.length > 0 ? (
-            blogs.map((blog, index) => (
+            blogs.map((blog) => (
               <Link
-                to={`/blog/${blog.id}`}
-                key={index}
+                to={`/blog/${blog._id}`}
+                key={blog._id}
+                
                 className="relative rounded-lg overflow-hidden shadow-md transform hover:scale-105 transition-transform duration-300"
               >
                 <img
