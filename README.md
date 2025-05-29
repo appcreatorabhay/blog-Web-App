@@ -1,5 +1,5 @@
 <img width="569" alt="1st blog fast blog" src="https://github.com/user-attachments/assets/1d31ab64-e77b-4bef-9c9a-74b43809c2f2" /># blog-Web-App
-<img width="569" alt="1st blog fast blog" src="https://github.com/user-attachments/assets/b58447b2-c34a-45f0-bdaf-27ecad69c530" />
+
 
 
 <img width="863" alt="2nd" src="https://github.com/user-attachments/assets/54aa0ddf-1444-4058-8747-c075d88be2d7" />
